@@ -1,0 +1,6 @@
+framework module Pods_NetEase_Music {
+  umbrella header "Pods-NetEase Music-umbrella.h"
+
+  export *
+  module * { export * }
+}
